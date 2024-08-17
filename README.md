@@ -16,6 +16,10 @@ JupiterBOT V3 a trading bot designed specifically for Jupiter Swap (https://jup.
 - **Smart Autotrade**: Automatically execute trades based on predefined strategies, maximizing profits with minimal input.
 - **Volume Control**: Generate natural trading volume to boost your tokens' visibility and appeal.
 
+### 🚀 Speed and Efficiency
+
+- **Faster Transactions, Lower Fees**: JupiterBOT V3 offers faster transaction speeds and lower fees compared to Raydium bots.
+
 ### Real-Time Analytics 📈
 
 - **Real-Time Analytics**: Access detailed insights on token performance, including PnL, current prices, and market caps.
