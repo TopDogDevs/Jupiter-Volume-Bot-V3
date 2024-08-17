@@ -22,7 +22,7 @@ JupiterBOT V3 a trading bot designed specifically for Jupiter Swap (https://jup.
 
 ### Real-Time Analytics 📈
 
-- **Real-Time Analytics**: Access detailed insights on token performance, including PnL, current prices, and market caps.
+- **Real-Time Analytics**: How many transactions was made, how much you spend on fees, how much volume, etc.
 
 ### Settings and Support ⚙️
 
