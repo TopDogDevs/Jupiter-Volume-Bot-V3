@@ -3,7 +3,6 @@
 
 JupiterFactory is a trading bot designed specifically for Jupiter Swap (https://jup.ag/). This tool generate "organic" volume, manipulate market perception, and maximize your trading profits on the Solana blockchain.
 
-[![Telegram](https://img.shields.io/badge/Telegram-SolanaFactory-darkgreen?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zen_devs)
 
 ## 🌟 Key Features 🌟
 
@@ -25,6 +24,11 @@ JupiterFactory is a trading bot designed specifically for Jupiter Swap (https://
 
 - **Intuitive Setup**: Easily configure your bot with an interactive setup wizard and comprehensive documentation.
 - **24/7 Support**: Enjoy dedicated customer support to help you get the most out of your bot.
+
+### 💲 Prices:
+
+- **Obfuscated Code**: 3 SOL
+- **Source Code**: 5 SOL for the source code.
 
 ## Contact 🏁
 To buy and Demo, contact me at [@zen_devs](https://t.me/zen_devs).
