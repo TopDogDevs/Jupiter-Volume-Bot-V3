@@ -1,7 +1,7 @@
-<h1  align="center">JupiterSwap Trading Bot 🚀 High Volume and Cheap Fees</h1>
+<h1  align="center">JupiterBOT V3 is a JupiterSwap Trading Bot 🚀 High Volume and Cheap Fees</h1>
 
 
-JupiterBOT is a trading bot designed specifically for Jupiter Swap (https://jup.ag/). This tool generate "organic" volume, manipulate market perception, and maximize your trading profits on the Solana blockchain.
+JupiterBOT V3 a trading bot designed specifically for Jupiter Swap (https://jup.ag/). This tool generate "organic" volume, manipulate market perception, and maximize your trading profits on the Solana blockchain.
 
 
 ## 🌟 Key Features 🌟
