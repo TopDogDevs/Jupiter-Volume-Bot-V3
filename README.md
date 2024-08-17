@@ -22,8 +22,8 @@ JupiterBOT is a trading bot designed specifically for Jupiter Swap (https://jup.
 
 ### Settings and Support ⚙️
 
-- **Intuitive Setup**: Easily configure your bot with an interactive setup wizard and comprehensive documentation.
-- **24/7 Support**: Enjoy dedicated customer support to help you get the most out of your bot.
+- **Easy Setup**: Easily configure your bot. Documentation with PDF and video available.
+- **24/7 Support**: Support to help you get the most out of your bot.
 
 ### 💲 Prices:
 
