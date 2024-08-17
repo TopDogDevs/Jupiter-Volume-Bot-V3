@@ -8,7 +8,7 @@ JupiterBOT V3 a trading bot designed specifically for Jupiter Swap (https://jup.
 
 ### Multi-Wallet Management 🗂️
 
-- **Custom Wallet Sets**: Manage multiple wallets with customizable settings for fees, slippage, and transaction priorities.
+- **Unique Wallets with Each Transaction**: Every transaction is executed from a new wallet address, creating the illusion of constant buy pressure without revealing the corresponding sell. On the DEX, users see consistent buys, making your token seem highly desirable.
 - **Real-Time Balances**: Monitor and manage your assets across all wallets efficiently.
 
 ### Automated Trading 🤖
