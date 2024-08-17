@@ -1,7 +1,7 @@
 <h1  align="center">JupiterSwap Trading Bot 🚀 High Volume and Cheap Fees</h1>
 
 
-JupiterFactory is a trading bot designed specifically for Jupiter Swap (https://jup.ag/). This tool generate "organic" volume, manipulate market perception, and maximize your trading profits on the Solana blockchain.
+JupiterBOT is a trading bot designed specifically for Jupiter Swap (https://jup.ag/). This tool generate "organic" volume, manipulate market perception, and maximize your trading profits on the Solana blockchain.
 
 
 ## 🌟 Key Features 🌟
