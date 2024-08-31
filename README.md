@@ -4,6 +4,8 @@
 
 [JupiterBOT V3](https://medium.com/@zengo.q7/jupiter-volume-bot-jupiterbot-v3-82aed488c65e) a trading bot designed to buy and sell your token on Jupiter Swap (https://jup.ag/). This tool generate volume, change market perception to make you profits on the Solana blockchain.
 
+### It works for any Solana Token! The same as Raydium volume Bots, just cheaper and faster! All transactions are visible on Raydium!
+
 
 ## 🌟 Key Features 🌟
 
